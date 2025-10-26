@@ -36,4 +36,6 @@ Diagrama de classes
 <img width="942" height="293" alt="image" src="https://github.com/user-attachments/assets/7b05c73c-7848-4b66-873f-f8b45b452a13" />
 
 Diagrama de casos de uso
+<img width="705" height="509" alt="image" src="https://github.com/user-attachments/assets/07a1ca4f-82e2-42df-8eef-1b33b1341b76" />
+
 
