@@ -33,4 +33,5 @@ As seguintes restrições devem ser observadas no desenvolvimento do sistema:
 - É permitido que mais de um jogador escolha o mesmo valor para a aposta, o que pode resultar em divisão do prêmio caso aquele valor seja sorteado.
 
 Diagrama de classes
-[diagramaJogoDeDados.drawio](https://github.com/user-attachments/files/23150600/diagramaJogoDeDados.drawio)
+<img width="942" height="293" alt="image" src="https://github.com/user-attachments/assets/7b05c73c-7848-4b66-873f-f8b45b452a13" />
+
