@@ -35,3 +35,5 @@ As seguintes restrições devem ser observadas no desenvolvimento do sistema:
 Diagrama de classes
 <img width="942" height="293" alt="image" src="https://github.com/user-attachments/assets/7b05c73c-7848-4b66-873f-f8b45b452a13" />
 
+Diagrama de casos de uso
+
