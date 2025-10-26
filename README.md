@@ -12,7 +12,7 @@ Lógica da Partida:
 - Caso contrário, o sistema informa que o computador venceu.
 
 Levantamento de Requisitos
-O sistema deve atender a requisitos funcionais específicos que representam as principais interações entre o jogador e o sistema.
+- O sistema deve atender a requisitos funcionais específicos que representam as principais interações entre o jogador e o sistema.
 
 Requisitos Funcionais
 CSU01 – Inserir Jogadores:
@@ -28,7 +28,7 @@ CSU04 – Informar Vencedor:
 O sistema verifica o resultado e informa o nome do jogador vencedor ou a vitória do computador.
 
 Regras de Negócio
-As seguintes restrições devem ser observadas no desenvolvimento do sistema:
+- As seguintes restrições devem ser observadas no desenvolvimento do sistema:
 - O valor escolhido para a aposta deve estar obrigatoriamente entre 2 e 12, pois esta é a faixa de resultados possíveis (soma mínima 1+1=2 e soma máxima 6+6=12).
 - É permitido que mais de um jogador escolha o mesmo valor para a aposta, o que pode resultar em divisão do prêmio caso aquele valor seja sorteado.
 
