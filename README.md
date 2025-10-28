@@ -33,9 +33,10 @@ Regras de Negócio
 - É permitido que mais de um jogador escolha o mesmo valor para a aposta, o que pode resultar em divisão do prêmio caso aquele valor seja sorteado.
 
 Diagrama de classes
-
+<img width="935" height="280" alt="Captura de tela 2025-10-26 161549" src="https://github.com/user-attachments/assets/fcb53760-7c4a-414c-a835-dc5e92e7aedd" />
 
 Diagrama de casos de uso
+<img width="699" height="502" alt="Captura de tela 2025-10-26 161454" src="https://github.com/user-attachments/assets/db309cfd-e834-4e01-b0e9-86f3b8620fcd" />
 
 
 
