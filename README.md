@@ -27,6 +27,8 @@ O jogador solicita o lançamento dos dados (iniciar o jogo); o sistema executa o
 CSU04 – Informar Vencedor:
 O sistema verifica o resultado e informa o nome do jogador vencedor ou a vitória do computador.
 
+CSU05 - O sistema deve registrar apostas em mesas diferentes.
+
 Regras de Negócio
   As seguintes restrições devem ser observadas no desenvolvimento do sistema:
 - O valor escolhido para a aposta deve estar obrigatoriamente entre 2 e 12, pois esta é a faixa de resultados possíveis (soma mínima 1+1=2 e soma máxima 6+6=12).
